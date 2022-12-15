@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="544888f0-711a-4eac-88b7-e823e32dedf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IYihxzb704jH27iRr6XHb1pC6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/workspace_kata/kata_tondeuse"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace_kata\kata_tondeuse\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in kata_tondeuse">
+    <configuration name="All in kata_tondeuse (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_tondeuse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in kata_tondeuse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_tondeuse" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MowerManagerTest.executeInstructions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_tondeuse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mowerManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mowerManager" />
+      <option name="MAIN_CLASS_NAME" value="mowerManager.MowerManagerTest" />
+      <option name="METHOD_NAME" value="executeInstructions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MowerManagerTest.shouldBeNorth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_tondeuse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mowerManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mowerManager" />
+      <option name="MAIN_CLASS_NAME" value="mowerManager.MowerManagerTest" />
+      <option name="METHOD_NAME" value="shouldBeNorth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MowerOperationsTest.executeInstructions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata_tondeuse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mowerManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mowerManager" />
+      <option name="MAIN_CLASS_NAME" value="mowerManager.MowerOperationsTest" />
+      <option name="METHOD_NAME" value="executeInstructions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in kata_tondeuse" />
+        <item itemvalue="JUnit.MowerManagerTest.shouldBeNorth" />
+        <item itemvalue="JUnit.MowerOperationsTest.executeInstructions" />
+        <item itemvalue="JUnit.MowerManagerTest.executeInstructions" />
+        <item itemvalue="JUnit.All in kata_tondeuse (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="544888f0-711a-4eac-88b7-e823e32dedf2" name="Changes" comment="" />
+      <created>1670365042689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670365042689</updated>
+      <workItem from="1670365043968" duration="3842000" />
+      <workItem from="1670444262705" duration="8275000" />
+      <workItem from="1670535289892" duration="8789000" />
+      <workItem from="1670714222625" duration="2290000" />
+      <workItem from="1670802008330" duration="1269000" />
+      <workItem from="1670846282805" duration="5058000" />
+      <workItem from="1670886086856" duration="1281000" />
+      <workItem from="1670923996121" duration="6537000" />
+      <workItem from="1670939185900" duration="30395000" />
+      <workItem from="1671012526982" duration="734000" />
+      <workItem from="1671013604575" duration="4042000" />
+      <workItem from="1671018067887" duration="9946000" />
+      <workItem from="1671033932088" duration="59000" />
+      <workItem from="1671054839543" duration="9506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
