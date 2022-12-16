@@ -14,14 +14,14 @@ When a mower has finished, it give the final position and orientation
 . load file.txt to get data
 . Execution example test executeInstructionsMower1:
 
-Input         
+. Input         
 1 2 N     
 GAGAGAGAA
 Result: 1 3 N ==> displayed message "Position final Mower 1 : (X = 1, Y=3 ) Direction = N"
 
 Execution example test executeInstructionsMower2:
 
-input:
+. input:
 3 3 E
 AADAADADDA
 Result: 5 1 E ==> displayed message "Final Position Mower 2: (X = 5, Y=1 ) Direction = E"
