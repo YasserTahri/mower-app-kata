@@ -64,7 +64,7 @@ public class MowerOperations {
         return direction1;
     }
 
-    public static void execute(MowerPosition mowerPosition, MowerInstruction mowerInstruction, CoordinatesPoint coordinatesPoint) throws MowerException {
+    public static MowerPosition execute(MowerPosition mowerPosition, MowerInstruction mowerInstruction, CoordinatesPoint coordinatesPoint) throws MowerException {
 
         switch (mowerInstruction){
             case LEFT:
@@ -79,6 +79,7 @@ public class MowerOperations {
             default:
                 throw new MowerException(Constants.BAD_DATA);
         }
+        return mowerPosition;
     }
 
 }
