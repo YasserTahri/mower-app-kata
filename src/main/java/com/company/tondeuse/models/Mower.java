@@ -43,14 +43,13 @@ public class Mower{
     public Mower() {
 
     }
-
-    public void simulateMower(MowerPosition position, String instructions) throws MowerException {
+    public MowerPosition simulateMower(MowerPosition position, String instructions) throws MowerException {
         List<MowerInstruction> listInstructions = Parser.parseInstructions(instructions);
+        MowerPosition finalMowerPosition = null;
         for(MowerInstruction mowerInstruction : listInstructions){
-            MowerOperations.execute(position,
-                    mowerInstruction, coordinatesPoint);
+            finalMowerPosition = MowerOperations.execute(position, mowerInstruction, coordinatesPoint);
         }
-
+        return finalMowerPosition;
     }
 
     public String toString(){

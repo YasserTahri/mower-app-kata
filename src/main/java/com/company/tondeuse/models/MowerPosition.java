@@ -1,13 +1,11 @@
 package com.company.tondeuse.models;
 
 import com.company.tondeuse.enums.Direction;
-import lombok.AllArgsConstructor;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 @AllArgsConstructor
 @EqualsAndHashCode
+@ToString
 public class MowerPosition {
 
     @Getter
