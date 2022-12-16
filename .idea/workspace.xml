@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544888f0-711a-4eac-88b7-e823e32dedf2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/Mower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/Mower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/MowerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/MowerOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/MowerPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/models/MowerPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/tranverse/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/tondeuse/tranverse/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mowerManager/MowerManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mowerManager/MowerManagerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="544888f0-711a-4eac-88b7-e823e32dedf2" name="Changes" comment="- edit readme file&#10;- change edit test instructions' execution (mower1 , mower 2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,8 +151,16 @@
       <workItem from="1671033932088" duration="59000" />
       <workItem from="1671054839543" duration="10391000" />
       <workItem from="1671109830299" duration="340000" />
-      <workItem from="1671182422982" duration="7864000" />
+      <workItem from="1671182422982" duration="8623000" />
     </task>
+    <task id="LOCAL-00001" summary="- edit readme file&#10;- change edit test instructions' execution (mower1 , mower 2)">
+      <created>1671190559029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671190559029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,5 +206,9 @@
         <entry key="3dc320c4-b304-46a5-83b8-db22f1975051" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- edit readme file&#10;- change edit test instructions' execution (mower1 , mower 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="- edit readme file&#10;- change edit test instructions' execution (mower1 , mower 2)" />
   </component>
 </project>
